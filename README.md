@@ -1,4 +1,4 @@
-# Implementation-of-On-Policy-Monte-Carlo-Control-using-Gymnasium
+# EX 5. Implementation-of-On-Policy-Monte-Carlo-Control-using-Gymnasium
 ---
 
 ## Aim
