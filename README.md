@@ -1,4 +1,4 @@
-<img width="1398" height="138" alt="image" src="https://github.com/user-attachments/assets/fdbdb7d8-67dc-4fb9-97ea-c732830a9ed4" /># EX 5. Implementation-of-On-Policy-Monte-Carlo-Control-using-Gymnasium
+<img width="1398" height="138" alt="image" src="https://github.com/user-attachments/assets/fdbdb7d8-67dc-4fb9-97ea-c732830a9ed4" /> EX 5. Implementation-of-On-Policy-Monte-Carlo-Control-using-Gymnasium
 ---
 
 ## Aim
