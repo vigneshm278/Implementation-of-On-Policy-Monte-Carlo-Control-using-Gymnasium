@@ -1,4 +1,4 @@
-# EX 5. Implementation-of-On-Policy-Monte-Carlo-Control-using-Gymnasium
+<img width="1398" height="138" alt="image" src="https://github.com/user-attachments/assets/fdbdb7d8-67dc-4fb9-97ea-c732830a9ed4" /># EX 5. Implementation-of-On-Policy-Monte-Carlo-Control-using-Gymnasium
 ---
 
 ## Aim
@@ -409,6 +409,24 @@ Learned Policy:
 
 Average reward over last 1000 episodes: 
 <img width="1553" height="559" alt="image" src="https://github.com/user-attachments/assets/a584e3b9-4514-4c2c-a35e-755d83dea4da" />
+
+
+Final Q-table:
+<img width="1190" height="421" alt="image" src="https://github.com/user-attachments/assets/9f788d86-a1d2-4d00-8b9f-9d211ecf927f" />
+
+
+
+Estimated State-Value Function:
+<img width="1398" height="138" alt="image" src="https://github.com/user-attachments/assets/47ecf4bd-7223-43a4-87d4-b657ddf979c0" />
+
+
+
+
+
+
+Learned Policy:
+<img width="738" height="203" alt="image" src="https://github.com/user-attachments/assets/d35e1119-d22a-43f8-a238-5711f1656420" />
+
 
 Average reward over last 5000 episodes: 
 <img width="1616" height="553" alt="image" src="https://github.com/user-attachments/assets/dfa3878e-3706-45e4-bef8-7bb5ab0a93d9" />
